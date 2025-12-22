@@ -1,6 +1,4 @@
-package Lesson1;
-
-import java.sql.SQLOutput;
+package Lesson1.Example2.ProblematicCode;
 
 public class Employee {
 
