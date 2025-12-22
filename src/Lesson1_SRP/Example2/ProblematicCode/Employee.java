@@ -1,4 +1,4 @@
-package Lesson1.Example2.ProblematicCode;
+package Lesson1_SRP.Example2.ProblematicCode;
 
 public class Employee {
 

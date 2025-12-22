@@ -1,4 +1,4 @@
-package Lesson1.Example2.BetterCode;
+package Lesson1_SRP.Example2.BetterCode;
 
 public class FetchEmployeeBioData {
 
