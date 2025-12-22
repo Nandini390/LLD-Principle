@@ -30,3 +30,9 @@ function UserProfile(){
    </div>
   );
 }
+
+
+
+//This component violates the SINGLE RESPONSIBILITY PRINCIPLE
+//This component handles many functions like, State, api calls, how the UI looks
+//SRP is followed for 1. maintenance 2. Extendebility
