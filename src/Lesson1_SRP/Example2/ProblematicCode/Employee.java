@@ -23,7 +23,7 @@ public class Employee {
 }
 
 
-//Their are multile reasons to change the code of this class
+//There are multiple reasons to change the code of this class
 //1. adding new attributes which leads to adding new getter and setters
 //2. calculateSalary method algorithm can change
-//3.
+
