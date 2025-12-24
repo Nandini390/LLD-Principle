@@ -1,0 +1,4 @@
+They only have abstract methods
+we can not create a object of interface
+A class can implements multiple interfaces
+Interfaces are simple contract

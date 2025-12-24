@@ -1,0 +1,14 @@
+What is an abstract class?
+-> We cannot instantiate an abstract class.
+-> we can not create a object of an abstract class
+
+PURPOSE:
+Generally it is used as a base class for other classes to provide a common definition
+that multiple derived classes can share.
+
+SUPPORT 2 TYPES OF METHODS:
+1. abstract method                           2. Non-abstract method/concrete methods
+-> which do not have an implementation,      -> which have implementation which means logic
+   only signature
+
+A class can only extend single abstract class in java
