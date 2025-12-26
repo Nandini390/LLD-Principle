@@ -17,3 +17,8 @@ public class Main {
 //This solution is simplest form of Design Pattern called as BUILDER DESIGN PATTERN.
 //DESIGN PATTERN:- Design Pattern are a kind of Coding solution prepared for a Object Oriented Programming Problem.
 // BDP lies in the category of CREATIONAL DESIGN PATTERN that deals with the problems in the classes when the objects are getting created.
+
+
+//ISSUES:
+//If someone pass null in Product object creation instead of Builder Object then it will cause a problem.
+//Any client that create a Product object, need to know about the Builder.
